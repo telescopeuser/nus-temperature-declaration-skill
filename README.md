@@ -1,12 +1,8 @@
-# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/temperature-high.svg" card_color="#FD9E66" width="50" height="50" style="vertical-align:bottom"/> Nus Temperature Declaration
+# <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/temperature-high.svg" card_color="#22A7F0" width="50" height="50" style="vertical-align:bottom"/> Nus Temperature Declaration
 Declare my daily temperature to nus
 
 ## About
 Declare my daily temperature to nus
-
-declare my daily temperature to nus
-
-declare my daily temperature to nus
 
 ## Examples
 * "Declare my temperature"
